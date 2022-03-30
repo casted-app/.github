@@ -6,6 +6,9 @@
       
 - [ ] Appropriate user permissions checks have been added\
       Details: 
+      
+- [ ] Appropriate vitally tracking events have been added\
+      Details:   
 
 ###### TESTING STEPS
 #### RELATED PRS
