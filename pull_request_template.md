@@ -1,6 +1,5 @@
-#### SHORTCUT TICKET LINK
-#### HOW TO TEST
-###### DEFAULT CHECKS
+#### JIRA TICKET LINK
+#### DEFAULT CHECKS
 - [ ] Feature flag has been included\
       Details:
       
@@ -10,6 +9,6 @@
 - [ ] Appropriate vitally tracking events have been added\
       Details:   
 
-###### TESTING STEPS
+#### TESTING STEPS
 #### RELATED PRS
 #### BLOCKERS / CONTEXT
